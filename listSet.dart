@@ -3,4 +3,6 @@ void main(){
   Set nameSet={"Nimesh","Rangana","Dilshan","Jayaweera"};
 
   print(name.toSet().union(nameSet));
+
+  print(nameSet.toList());
 }
